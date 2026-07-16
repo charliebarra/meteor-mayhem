@@ -1,13 +1,29 @@
 # Project Reflection
 
-## What worked well
+## What Worked Well
 
-## What surprised me
+Building a physical prototype made it possible to test the whole game instead of thinking about each card separately.
 
-## What changed after testing
+## What Surprised Me
 
-## Hardest design problem
+Players found strategies and confusing rules that I had not noticed because I already knew how the game was meant to work.
 
-## What I would improve next
+## What Changed After Testing
 
-## What this project taught me about systems
+I adjusted card costs, resource incentives, pacing, and rule explanations. Small changes often affected several other parts of the game.
+
+## Hardest Design Problem
+
+The hardest problem was using randomness to create tension without making the result feel decided by luck.
+
+## What I Would Improve Next
+
+- Test with more new players
+- Keep a more detailed session log
+- Refine card frequency and resource costs
+- Shorten the rules
+- Explore a digital balancing tool
+
+## What I Am Still Wondering
+
+How much randomness feels exciting before it starts feeling unfair?

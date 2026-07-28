@@ -9,9 +9,11 @@
 </p>
 
 <p align="center">
-  <a href="https://charliebarra.github.io/portfolio/meteor-mayhem.html">Full Portfolio Case Study</a>
+  <a href="https://www.charliebarra.com/meteor-mayhem.html">Full Portfolio Case Study</a>
   ·
   <a href="https://youtu.be/q08nESroUwM">Video Walkthrough</a>
+  ·
+  <a href="documentation/rules/Meteor-Mayhem-Rulebook-Prototype-Edition.pdf">Rulebook (Prototype Edition)</a>
   ·
   <a href="printable-files/meteor-mayhem-card-sheets.pdf">Printable Card Sheets</a>
 </p>
@@ -113,6 +115,16 @@ Apparently, “balanced” is harder than it looks.
 
 More detailed notes are in [`documentation/playtesting/Playtesting Journal.md`](documentation/playtesting/Playtesting%20Journal.md).
 
+## From Prototype to Playable
+
+Writing the rulebook became an important design milestone.
+
+Until then, I could jump in whenever someone got stuck and explain what I meant. Putting the rules in writing forced me to notice missing steps, unclear wording, and assumptions I had made because I already knew how the game worked.
+
+The game was not really understandable until another person could learn it without me standing there.
+
+**[View the Meteor Mayhem Rulebook (Prototype Edition)](documentation/rules/Meteor-Mayhem-Rulebook-Prototype-Edition.pdf)**
+
 ## Probability and Balancing
 
 I used probability and card-frequency counts to think about how often different effects appeared.
@@ -153,7 +165,7 @@ With more development time, I would:
 - test with more people who have never heard me explain the rules,
 - track playtest results more systematically,
 - refine card frequency and resource costs,
-- create a shorter and clearer rulebook,
+- revise the Prototype Edition when future playtests reveal unclear rules,
 - explore asymmetric ships or player powers,
 - and build a small digital balancing tool.
 
@@ -178,19 +190,24 @@ meteor-mayhem/
 └── printable-files/
 ```
 
-### Documentation
+### Production Artifacts
 
 - [Design Process](documentation/design-process/Design%20Process.md)
 - [Playtesting Journal](documentation/playtesting/Playtesting%20Journal.md)
+- [Meteor Mayhem Rulebook (Prototype Edition)](documentation/rules/Meteor-Mayhem-Rulebook-Prototype-Edition.pdf)
 - [Playtesting Log Template](documentation/playtesting/Playtesting%20Log.md)
 - [Project Reflection](documentation/reflections/Reflection.md)
-- [Working Rules Document](documentation/rules/Official%20Rules.md)
 - [Probability and Balance Notes](probability/Balance%20Notes.md)
+
+### Rulebook Version History
+
+- **Prototype Edition** — current rulebook for the playable prototype.
+- **Future revisions** — will be documented here when additional testing leads to meaningful changes.
 
 ## Related Links
 
-- [Charlie Barra Portfolio](https://charliebarra.github.io/portfolio/)
-- [Full Meteor Mayhem Case Study](https://charliebarra.github.io/portfolio/meteor-mayhem.html)
+- [Charlie Barra Portfolio](https://www.charliebarra.com/)
+- [Full Meteor Mayhem Case Study](https://www.charliebarra.com/meteor-mayhem.html)
 - [Video Walkthrough](https://youtu.be/q08nESroUwM)
 - [Charlie’s GitHub Profile](https://github.com/charliebarra)
 

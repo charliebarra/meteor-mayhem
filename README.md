@@ -13,7 +13,9 @@
   ·
   <a href="https://youtu.be/q08nESroUwM">Video Walkthrough</a>
   ·
-  <a href="documentation/rules/Meteor-Mayhem-Rulebook-Prototype-Edition.pdf">Rulebook (Prototype Edition)</a>
+  <a href="documentation/rules/Meteor-Mayhem-Rulebook.pdf">Rulebook (Prototype Edition)</a>
+  ·
+  <a href="documentation/balance/Meteor-Mayhem-Probability-and-Balance-Notes.pdf">Probability & Balance Notes</a>
   ·
   <a href="printable-files/meteor-mayhem-card-sheets.pdf">Printable Card Sheets</a>
 </p>
@@ -44,7 +46,11 @@ I designed the:
 - and card-frequency approach used during balancing.
 
 **Role:** Sole Designer & Creator  
+**Duration:** Approximately 4 months  
 **Status:** Playable physical prototype  
+**Players:** 2–4  
+**Play time:** 15–30 minutes  
+**Tools:** Google Slides, physical prototyping, and playtesting  
 **Developed through:** Life Design Lab independent honors project
 
 ## How the Game Developed
@@ -123,20 +129,25 @@ Until then, I could jump in whenever someone got stuck and explain what I meant.
 
 The game was not really understandable until another person could learn it without me standing there.
 
-**[View the Meteor Mayhem Rulebook (Prototype Edition)](documentation/rules/Meteor-Mayhem-Rulebook-Prototype-Edition.pdf)**
+**[View the Meteor Mayhem Rulebook (Prototype Edition)](documentation/rules/Meteor-Mayhem-Rulebook.pdf)**
 
-## Probability and Balancing
+## Balancing Strategy and Chaos
 
-I used probability and card-frequency counts to think about how often different effects appeared.
+> “I never actually calculated exact probabilities. Instead, I wrote down the questions I wanted to answer while playtesting. That helped me decide what to change after each game.”
 
-That gave me a starting point, but the numbers could not tell me:
+The questions focused my playtests on:
 
-- whether a decision felt interesting,
-- whether players understood the risk,
-- whether one strategy made every other choice pointless,
-- or whether people wanted to play again.
+- how often high-impact cards should appear,
+- how long it took to build a strong mining tier,
+- whether several paths to victory remained viable,
+- whether one strategy became dominant,
+- and how much control players had over uncertainty.
 
-The working balance document is in [`probability/Balance Notes.md`](probability/Balance%20Notes.md).
+The notes are intentionally honest. I wanted high-impact cards to appear often because the game is more fun when it is chaotic. At the same time, repeated play suggested that building the mining tier as quickly as possible could become the preferred strategy. Card selection and scouting gave players ways to respond to uncertainty, but the dominant-strategy question became something to keep testing.
+
+**[View the original Probability & Balance Notes](documentation/balance/Meteor-Mayhem-Probability-and-Balance-Notes.pdf)**
+
+The working Markdown record is in [`documentation/balance/Balance Notes.md`](documentation/balance/Balance%20Notes.md).
 
 ## Card System
 
@@ -185,8 +196,8 @@ meteor-mayhem/
 │   ├── design-process/
 │   ├── playtesting/
 │   ├── reflections/
-│   └── rules/
-├── probability/
+│   ├── rules/
+│   └── balance/
 └── printable-files/
 ```
 
@@ -194,10 +205,11 @@ meteor-mayhem/
 
 - [Design Process](documentation/design-process/Design%20Process.md)
 - [Playtesting Journal](documentation/playtesting/Playtesting%20Journal.md)
-- [Meteor Mayhem Rulebook (Prototype Edition)](documentation/rules/Meteor-Mayhem-Rulebook-Prototype-Edition.pdf)
+- [Meteor Mayhem Rulebook (Prototype Edition)](documentation/rules/Meteor-Mayhem-Rulebook.pdf)
+- [Probability & Balance Notes](documentation/balance/Meteor-Mayhem-Probability-and-Balance-Notes.pdf)
+- [Balance Notes - accessible Markdown](documentation/balance/Balance%20Notes.md)
 - [Playtesting Log Template](documentation/playtesting/Playtesting%20Log.md)
 - [Project Reflection](documentation/reflections/Reflection.md)
-- [Probability and Balance Notes](probability/Balance%20Notes.md)
 
 ### Rulebook Version History
 

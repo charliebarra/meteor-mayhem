@@ -95,3 +95,9 @@ Apparently, “balanced” is harder than it looks.
 - When does complexity make a game deeper, and when does it only make it harder to learn?
 - How much information should players have before an important decision?
 - What makes someone want to play one more game?
+
+## How I Used the Questions
+
+> “I never actually calculated exact probabilities. Instead, I wrote down the questions I wanted to answer while playtesting. That helped me decide what to change after each game.”
+
+The questions were a practical balancing framework. After each playtest, I compared what happened with the experience I was trying to create, changed a rule, cost, frequency, or explanation, and tested again.

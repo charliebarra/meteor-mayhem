@@ -226,3 +226,7 @@ meteor-mayhem/
 ---
 
 *I do not think the goal is to make a perfect first version. I think the goal is to build something useful enough to show you what question to ask next.*
+
+## Repository Context
+
+This repository was assembled in July 2026 from original design files, rules, cards, photographs, and project documentation for portfolio review. Its Git history records archival organization and later documentation updates, not Meteor Mayhem's original development timeline. The dated process materials, playtesting records, and prototype artifacts provide the evidence of how the game developed.

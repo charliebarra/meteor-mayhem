@@ -15,7 +15,7 @@
   ·
   <a href="documentation/rules/Meteor-Mayhem-Rulebook.pdf">Rulebook (Prototype Edition)</a>
   ·
-  <a href="documentation/balance/Meteor-Mayhem-Probability-and-Balance-Notes.pdf">Probability & Balance Notes</a>
+  <a href="documentation/balance/Meteor-Mayhem-Probability-and-Balance-Notes.pdf">Playtesting & Balance Questions</a>
   ·
   <a href="printable-files/meteor-mayhem-card-sheets.pdf">Printable Card Sheets</a>
 </p>
@@ -45,13 +45,13 @@ I designed the:
 - playtesting process,
 - and card-frequency approach used during balancing.
 
-**Role:** Sole Designer & Creator  
+**Role:** Independent student game designer and prototype creator
 **Duration:** Approximately 4 months  
 **Status:** Playable physical prototype  
 **Players:** 2–4  
 **Play time:** 15–30 minutes  
 **Tools:** Google Slides, physical prototyping, and playtesting  
-**Developed through:** Life Design Lab independent honors project
+**Developed through:** [Life Design Lab](https://mhs.morrisschooldistrict.org/academics/humanities-academy), an Honors-level program at Morristown High School
 
 ## How the Game Developed
 
@@ -123,15 +123,11 @@ More detailed notes are in [`documentation/playtesting/Playtesting Journal.md`](
 
 ## From Prototype to Playable
 
-Writing the rulebook became an important design milestone.
-
-Until then, I could jump in whenever someone got stuck and explain what I meant. Putting the rules in writing forced me to notice missing steps, unclear wording, and assumptions I had made because I already knew how the game worked.
-
-The game was not really understandable until another person could learn it without me standing there.
+Writing the rules down exposed missing steps and unclear wording. The current prototype rulebook is a working draft that I would test with players who have not heard me explain the game.
 
 **[View the Meteor Mayhem Rulebook (Prototype Edition)](documentation/rules/Meteor-Mayhem-Rulebook.pdf)**
 
-## Balancing Strategy and Chaos
+## Playtesting and Balance Questions
 
 > “I never actually calculated exact probabilities. Instead, I wrote down the questions I wanted to answer while playtesting. That helped me decide what to change after each game.”
 
@@ -145,7 +141,7 @@ The questions focused my playtests on:
 
 The notes are intentionally honest. I wanted high-impact cards to appear often because the game is more fun when it is chaotic. At the same time, repeated play suggested that building the mining tier as quickly as possible could become the preferred strategy. Card selection and scouting gave players ways to respond to uncertainty, but the dominant-strategy question became something to keep testing.
 
-**[View the original Probability & Balance Notes](documentation/balance/Meteor-Mayhem-Probability-and-Balance-Notes.pdf)**
+**[View the Playtesting and Balance Questions](documentation/balance/Meteor-Mayhem-Probability-and-Balance-Notes.pdf)**
 
 The working Markdown record is in [`documentation/balance/Balance Notes.md`](documentation/balance/Balance%20Notes.md).
 
@@ -162,6 +158,12 @@ I used consistent layouts and categories so players could understand cards witho
 | ![Meteor Mayhem card sheet 3](assets/cards/cards-page-3.png) | ![Meteor Mayhem card sheet 4](assets/cards/cards-page-4.jpeg) |
 
 [View the printable card-sheet PDF](printable-files/meteor-mayhem-card-sheets.pdf)
+
+### Player Reference Card
+
+![Meteor Mayhem reference card showing resource point values, mining tiers, and the disaster-resource rule](assets/cards/reference-card.png)
+
+The reference card helps players check resource points, mining tiers, and when to draw from the disaster deck.
 
 ## Something That Surprised Me
 
@@ -206,7 +208,7 @@ meteor-mayhem/
 - [Design Process](documentation/design-process/Design%20Process.md)
 - [Playtesting Journal](documentation/playtesting/Playtesting%20Journal.md)
 - [Meteor Mayhem Rulebook (Prototype Edition)](documentation/rules/Meteor-Mayhem-Rulebook.pdf)
-- [Probability & Balance Notes](documentation/balance/Meteor-Mayhem-Probability-and-Balance-Notes.pdf)
+- [Playtesting & Balance Questions](documentation/balance/Meteor-Mayhem-Probability-and-Balance-Notes.pdf)
 - [Balance Notes - accessible Markdown](documentation/balance/Balance%20Notes.md)
 - [Playtesting Log Template](documentation/playtesting/Playtesting%20Log.md)
 - [Project Reflection](documentation/reflections/Reflection.md)

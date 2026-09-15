@@ -1,4 +1,4 @@
-# Meteor Mayhem Probability and Balance Notes
+# Meteor Mayhem Playtesting and Balance Questions
 
 ## How I Used These Notes
 
@@ -14,23 +14,23 @@ All cards have similar counts.
 
 ### How often should high-impact cards appear?
 
-A lot. The game is more fun when it is chaotic.
+Often. The game felt more exciting when the state could change quickly, but I would keep testing where excitement turns into frustration.
 
 ### How likely is a player to obtain each mining tier?
 
-It takes a while to build a strong mining tier, and there are ways to slow another player’s progress.
+It takes time to build a strong mining tier, and opponents have several ways to slow that progress.
 
 ### Are there multiple viable paths to winning?
 
-As long as a player has the most resources at the end, they can use different strategies to reach that result.
+Players can pursue multiple strategies, although fast mining progression appeared strongest in the tests so far.
 
 ### Does one strategy become dominant across repeated games?
 
-Probably. Building the mining tier as quickly as possible seems to be the preferred strategy, which makes it an important area for continued testing.
+Building the mining tier as quickly as possible appeared to be the preferred strategy. That became a specific focus for later playtests.
 
 ### How much control do players have over uncertainty?
 
-Quite a bit. Players have several ways to draw specific cards and scout for higher-tier resources.
+Players have several ways to draw specific cards and scout for high-tier resources, giving them options for responding to uncertainty.
 
 ## Design Takeaway
 

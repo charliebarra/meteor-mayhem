@@ -1,8 +1,8 @@
-# Probability and Balance Notes
+# Playtesting and Balance Questions
 
 ## Purpose
 
-Use this document to record how deck composition, resource distribution, card frequency, and expected outcomes influence the game's balance.
+Use this document to record how deck composition, resource distribution, card frequency, and playtest observations influence the game's balance.
 
 ## Card Distribution
 
@@ -20,4 +20,4 @@ Use this document to record how deck composition, resource distribution, card fr
 
 ## Future Analysis
 
-Document planned simulations, spreadsheets, or testing methods here.
+Document future playtests, spreadsheets, or other testing methods here.

@@ -13,7 +13,7 @@
   ·
   <a href="https://youtu.be/q08nESroUwM">Video Walkthrough</a>
   ·
-  <a href="documentation/rules/Meteor-Mayhem-Rulebook.pdf">Rulebook (Prototype Edition)</a>
+  <a href="documentation/rules/Meteor-Mayhem-Rulebook.pdf">Visual Rulebook</a>
   ·
   <a href="documentation/balance/Meteor-Mayhem-Probability-and-Balance-Notes.pdf">Playtesting & Balance Questions</a>
   ·
@@ -123,9 +123,9 @@ More detailed notes are in [`documentation/playtesting/Playtesting Journal.md`](
 
 ## From Prototype to Playable
 
-Writing the rules down exposed missing steps and unclear wording. The current prototype rulebook is a working draft that I would test with players who have not heard me explain the game.
+Writing the rules down exposed missing steps and unclear wording. The illustrated rulebook turns the core rules, setup sequence, and card types into a three-page visual guide. The earlier Prototype Edition remains archived for process documentation.
 
-**[View the Meteor Mayhem Rulebook (Prototype Edition)](documentation/rules/Meteor-Mayhem-Rulebook.pdf)**
+**[View the Meteor Mayhem Visual Rulebook](documentation/rules/Meteor-Mayhem-Rulebook.pdf)**
 
 ## Playtesting and Balance Questions
 
@@ -207,7 +207,8 @@ meteor-mayhem/
 
 - [Design Process](documentation/design-process/Design%20Process.md)
 - [Playtesting Journal](documentation/playtesting/Playtesting%20Journal.md)
-- [Meteor Mayhem Rulebook (Prototype Edition)](documentation/rules/Meteor-Mayhem-Rulebook.pdf)
+- [Meteor Mayhem Visual Rulebook](documentation/rules/Meteor-Mayhem-Rulebook.pdf)
+- [Archived Rulebook (Prototype Edition)](documentation/rules/Meteor-Mayhem-Rulebook-Prototype-Edition.pdf)
 - [Playtesting & Balance Questions](documentation/balance/Meteor-Mayhem-Probability-and-Balance-Notes.pdf)
 - [Balance Notes - accessible Markdown](documentation/balance/Balance%20Notes.md)
 - [Playtesting Log Template](documentation/playtesting/Playtesting%20Log.md)
@@ -215,7 +216,8 @@ meteor-mayhem/
 
 ### Rulebook Version History
 
-- **Prototype Edition** — current rulebook for the playable prototype.
+- **Illustrated Edition** — current three-page visual guide covering play, setup, and card types.
+- **Prototype Edition** — archived earlier rules document retained as process evidence.
 - **Future revisions** — will be documented here when additional testing leads to meaningful changes.
 
 ## Related Links
